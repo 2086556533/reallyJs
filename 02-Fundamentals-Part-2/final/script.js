@@ -135,12 +135,12 @@ HINT: To check if number A is at least double number B, check for A >= 2 * B. Ap
 GOOD LUCK 😀
 */
 
-/*
+
 const calcAverage = (a, b, c) => (a + b + c) / 3;
 console.log(calcAverage(3, 4, 5));
 
 // Test 1
-let scoreDolphins = calcAverage(44, 23, 71);
+let scoreDolphins = calcAverage(44, 23, 71);.
 let scoreKoalas = calcAverage(65, 54, 49);
 console.log(scoreDolphins, scoreKoalas);
 
@@ -163,7 +163,7 @@ scoreKoalas = calcAverage(23, 34, 27);
 console.log(scoreDolphins, scoreKoalas);
 checkWinner(scoreDolphins, scoreKoalas);
 
-
+/*
 ///////////////////////////////////////
 // Introduction to Arrays
 const friend1 = 'Michael';
